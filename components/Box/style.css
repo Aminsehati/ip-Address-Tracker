@@ -1,0 +1,11 @@
+.box{
+  background: #fff;
+  width: 60%;
+  position: absolute;
+  bottom: -53px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 25px 20px;
+  z-index: 11111;
+  border-radius: 12px;
+}

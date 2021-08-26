@@ -1,0 +1,21 @@
+.form-group .form-control{
+  background: #ffffff;
+  width: 100%;
+  height: 50px;
+  padding: 0 20px;
+  outline: none ;
+  border-radius: 8px;
+}
+.form-group {
+  position: relative;
+}
+.form-group .btn-text-feild{
+  background: #3e403d;
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 50px;
+  padding: 0 30px;
+  color: #fff;
+  border-radius: 0 8px 8px 0;
+}

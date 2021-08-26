@@ -1,0 +1,12 @@
+.header{
+  padding: 40px 0 150px;
+  background: url("../../assets/img/pattern-bg.png");
+  background-size: cover;
+}
+.header h2{
+  text-align: center;
+  color: #fff;
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
